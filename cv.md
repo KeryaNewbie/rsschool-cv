@@ -1,4 +1,4 @@
-#Kiryl Ryzhevich
+# Kiryl Ryzhevich
 
 ### Newbie Frontend Developer
 
@@ -9,7 +9,7 @@
 **Phone:** +375333375517<br>
 **E-mail:** rsslearn@gmail.com<br>
 
-###About me:
+### About me:
 
 Newbie Frontend Developer from Grodno<br>
 
